@@ -1,4 +1,4 @@
-package accoutapp;
+package com.accoutapp;
 
 public class Checking extends Account{
 	

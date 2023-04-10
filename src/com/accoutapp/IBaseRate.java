@@ -1,4 +1,4 @@
-package accoutapp;
+package com.accoutapp;
 
 public interface IBaseRate {
 	
